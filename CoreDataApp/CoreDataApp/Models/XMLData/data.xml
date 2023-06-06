@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<groups>
+  <group>
+    <groupTitle>group 1</groupTitle>
+    <tasks>
+      <task>
+        <taskTitle>Task1</taskTitle>
+        <details>detailsTask1</details>
+        <done>true</done>
+      </task>
+      <task>
+        <taskTitle>Task2</taskTitle>
+        <details>detailsTask2</details>
+        <done>true</done>
+      </task>
+    </tasks>
+  </group>
+  <group>
+    <groupTitle>group 2</groupTitle>
+    <tasks>
+      <task>
+        <taskTitle>Task3</taskTitle>
+        <details>detailsTask3</details>
+        <done>true</done>
+      </task>
+      <task>
+        <taskTitle>Task4</taskTitle>
+        <details>detailsTask4</details>
+        <done>false</done>
+      </task>
+    </tasks>
+  </group>
+</groups>
